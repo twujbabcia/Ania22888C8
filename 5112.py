@@ -7,6 +7,9 @@ hello
 print("jestem super")
 
 
+print("moze zdam")
+
+
 
 
 
