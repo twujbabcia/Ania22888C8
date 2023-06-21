@@ -4,3 +4,6 @@ print("2115!")
 
 
 print("jednak nie jestem")
+
+
+print("moze zdam")
