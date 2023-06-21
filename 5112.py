@@ -8,9 +8,6 @@ print("jestem super")
 
 
 
-help
-
-
 
 
 
